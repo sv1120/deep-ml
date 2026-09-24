@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:27:20.995Z",
+  "generated_at": "2026-09-24T23:56:19.494Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -115,6 +115,19 @@
       "path": "problems/1151-first-n-fibonacci-numbers",
       "first_solved_at": "2026-09-24T23:27:20.449Z",
       "last_pushed_at": "2026-09-24T23:27:20.449Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1160": {
+      "kind": "problem",
+      "id": "1160",
+      "title": "Valid Palindrome II (Delete At Most One Char)",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1160",
+      "path": "problems/1160-valid-palindrome-ii-delete-at-most-one-char",
+      "first_solved_at": "2026-09-24T23:56:18.778Z",
+      "last_pushed_at": "2026-09-24T23:56:18.778Z",
       "language": "python",
       "lines": 11
     }
