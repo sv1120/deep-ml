@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 37 problems · 0 labs · 0 math
+**38** solved · 38 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2026-09-26 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-09-27 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-09-27 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-09-27 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-09-27 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count Words Appearing Exactly Once in Each of Two Lists](https://www.deep-ml.com/problems/1141) | easy | 2026-09-24 | [solution](problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-24 | [solution](problems/0116-derivative-of-a-polynomial) |
