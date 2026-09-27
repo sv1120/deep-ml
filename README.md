@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-09-27 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count Words Appearing Exactly Once in Each of Two Lists](https://www.deep-ml.com/problems/1141) | easy | 2026-09-24 | [solution](problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-24 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-09-27 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-24 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-09-24 | [solution](problems/1151-first-n-fibonacci-numbers) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-27 | [solution](problems/0046-implement-precision-metric) |
